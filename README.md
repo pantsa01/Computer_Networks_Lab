@@ -14,4 +14,4 @@ LAB Exercises on the course "Computer Networks Lab" at 8th Term in ECE NTUA (202
 1. BGP
 1. Firewalls, NAT
 1. IPv6
-1. Internet services (DHCP, DNS, 
+1. Internet services (DHCP, DNS)
